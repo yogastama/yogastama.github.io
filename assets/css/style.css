@@ -1,0 +1,24 @@
+.font-second {
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.font-main {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.title-about {
+	line-height: 45px;
+}
+
+.color-main {
+	color: #72D8BF;
+}
+
+.bg-main {
+	background: #72D8BF;
+}
+
+.accordion-button:not(.collapsed) {
+	color: #72D8BF;
+	background-color: #202020;
+}
